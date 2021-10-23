@@ -19,7 +19,7 @@ public class Itachi extends Rikudo{
 
     void printDojutsu() {
         System.out.println(this.Dojutsu);
-        setDojutsu();
+        //setDojutsu();
         System.out.println(this.Dojutsu);
     }
 
